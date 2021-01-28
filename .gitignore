@@ -2,3 +2,9 @@ __pycache__/
 *.pyc
 *~
 
+# custom
+.venv
+Face_Detection
+Face_Enhancement
+Global
+test_images
